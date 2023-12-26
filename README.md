@@ -49,7 +49,11 @@
 ![test-data](images/test-data-tf.png)
 
 
-ทำการพัฒนาโมเดลด้วยการ fine-tuning โมเดลต่อจาก PhayaThaiBERT
+**ไฮเปอร์พารามิเตอร์** โมเดลถูกพัฒนาโดยการพัฒนาด้วยการ fine-tuning ต่อจากโมเดล PhayaThaiBERT
+
+- Learning Rate = 
+- Batch Size =
+- Epoch = 
 
 
 ## Performance
