@@ -72,7 +72,7 @@ result = model(input_text, top_k=4)
 ลักษณะประเภทของปัญหาที่ใช้ในการพัฒนาโมเดลจำแนกประเภทอยู่ในโจทย์แบบ Multi-class classification
 - https://huggingface.co/nlp-chula/traffy-problem-predict
 
-ใช้ข้อมูล 2 ชุดในการพัฒนาโมเดล โดยจะมีสัดส่วน Label distribution ดังนี้
+ใช้ข้อมูล 2 ชุดในการพัฒนาโมเดล โดยจะมีสัดส่วน Label distribution ของประเภทปัญหาทั้ง 28 labels ดังนี้
 1. training set (2180 samples)
 
 ![train-data](images/train-data-tf.png)
