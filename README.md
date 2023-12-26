@@ -82,7 +82,7 @@ result = model(input_text, top_k=4)
 ![test-data](images/test-data-tf.png)
 
 
-**ไฮเปอร์พารามิเตอร์** โมเดลถูกพัฒนาโดยการพัฒนาด้วยการ fine-tuning ต่อจากโมเดล PhayaThaiBERT
+**ไฮเปอร์พารามิเตอร์** โมเดลถูกพัฒนาโดยการพัฒนาด้วยการ fine-tuning ต่อจากโมเดล ```clicknext/phayathaibert```
 
 - Learning Rate = 5e-5
 - Batch Size = 64
