@@ -51,9 +51,12 @@
 
 **ไฮเปอร์พารามิเตอร์** โมเดลถูกพัฒนาโดยการพัฒนาด้วยการ fine-tuning ต่อจากโมเดล PhayaThaiBERT
 
-- Learning Rate = 
-- Batch Size =
-- Epoch = 
+- Learning Rate = 5e-5
+- Batch Size = 64
+- Epoch = 30
+
+
+
 
 
 ## Performance
