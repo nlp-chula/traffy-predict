@@ -39,9 +39,18 @@
 
 
 ## Training
-ใช้ข้อมูล 2 ชุดในการพัฒนาโมเดล
+ใช้ข้อมูล 2 ชุดในการพัฒนาโมเดล โดยจะมีสัดส่วน Label distribution ดังนี้
 1. training set (2180 samples)
+
+![train-data](images/train-data-tf.png)
+
 2. test set (546 samples)
+
+![test-data](images/test-data-tf.png)
+
+
+ทำการพัฒนาโมเดลด้วยการ fine-tuning โมเดลต่อจาก PhayaThaiBERT
+
 
 ## Performance
 
