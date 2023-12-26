@@ -107,8 +107,8 @@
 | Weighted average | 0.85      | 0.84   | 0.84     | 546     |
 
 ## Documents
-- การสำรวจข้อมูลและพัฒนา Label set ชุดใหม่
-- การพัฒนาโมเดล 
-- การสำรวจผลลัพธ์การทำนายของโมเดล 
+- [การสำรวจข้อมูลและพัฒนา Label set ชุดใหม่](https://docs.google.com/document/d/1o27SsNB1KpbJppvI2Omer31JROP1NCd8uJEHhib733w/edit?usp=sharing)
+- [การพัฒนาโมเดล](https://docs.google.com/presentation/d/1P6TwINctPfIn8zk4GRWHMajU6CzTrvw7p0rLeFlb61s/edit?usp=sharing)
+- [การสำรวจผลลัพธ์การทำนายของโมเดล](https://docs.google.com/presentation/d/1byKt4aRcahqClmertx-zheCdlYXPl7WCHUE5VLwq_5U/edit?usp=sharing) 
 
 
