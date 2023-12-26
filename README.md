@@ -148,3 +148,7 @@ result = model(input_text, top_k=4)
 - [การสำรวจผลลัพธ์การทำนายของโมเดล](https://docs.google.com/presentation/d/1byKt4aRcahqClmertx-zheCdlYXPl7WCHUE5VLwq_5U/edit?usp=sharing) 
 กระบวนการสำรวจผลลัพธ์การจำแนกประเภทปัญหาของโมเดล
 
+- Traffy AI Demo: สามารถดูตัวอย่างการใช้ได้ที่ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oOHkBWtzWdQoA5tgCUJDps7TgeLUeY2D?usp=sharing)
+- Source code: สามารถดูรายละเอียดการเทรนได้ที่ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cqy5l88SqkMD6hE2N3Ci68CRjcFATyuc?usp=sharing)
+
+
