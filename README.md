@@ -39,6 +39,9 @@
 
 
 ## Training
+
+สามารถดูรายละเอียดการเทรนได้ที่ [![Open In Colab](https://colab.research.google.com/drive/1cqy5l88SqkMD6hE2N3Ci68CRjcFATyuc?usp=sharing)
+
 ใช้ข้อมูล 2 ชุดในการพัฒนาโมเดล โดยจะมีสัดส่วน Label distribution ดังนี้
 1. training set (2180 samples)
 
