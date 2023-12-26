@@ -141,7 +141,10 @@ result = model(input_text, top_k=4)
 
 ## Documents
 - [การสำรวจข้อมูลและพัฒนา Label set ชุดใหม่](https://docs.google.com/document/d/1o27SsNB1KpbJppvI2Omer31JROP1NCd8uJEHhib733w/edit?usp=sharing)
+กระบวนการสำรวจข้อมูลเบื้องต้นและการออกแบบ Label set ชุดใหม่ให้ละเอียดยิ่งขึ้นสำหรับการเทรนโมเดล พร้อมตัวอย่างข้อมูลในแต่ละประเภทปัญหา
 - [การพัฒนาโมเดล](https://docs.google.com/presentation/d/1P6TwINctPfIn8zk4GRWHMajU6CzTrvw7p0rLeFlb61s/edit?usp=sharing)
-- [การสำรวจผลลัพธ์การทำนายของโมเดล](https://docs.google.com/presentation/d/1byKt4aRcahqClmertx-zheCdlYXPl7WCHUE5VLwq_5U/edit?usp=sharing) 
+กระบวนการพัฒนาโมเดลจากชุดข้อมูลที่มีด้วยโมเดลรูปแบบต่างๆ 
 
+- [การสำรวจผลลัพธ์การทำนายของโมเดล](https://docs.google.com/presentation/d/1byKt4aRcahqClmertx-zheCdlYXPl7WCHUE5VLwq_5U/edit?usp=sharing) 
+กระบวนการสำรวจผลลัพธ์การจำแนกประเภทปัญหาของโมเดล
 
