@@ -94,7 +94,7 @@ result = model(input_text, top_k=4)
 
 ## Performance
 
-| Problem                                   | Precision | Recall | F1-Score | Support |
+| Labels                                   | Precision | Recall | F1-Score | Support |
 |-------------------------------------------|-----------|--------|----------|---------|
 | ขยะ, ขยะ                                | 0.92      | 0.86   | 0.89     | 28      |
 | ขยะ, น้ำเน่าเสีย                          | 0.82      | 0.75   | 0.78     | 12      |
