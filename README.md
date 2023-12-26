@@ -79,14 +79,14 @@
 
 
 
-|               |              |       | Score | Support |
-|---------------|-----------|--------|----------|---------|
-| Accuracy      |           |        | 0.84     | 546     |
+|        Metric       |   Score | Support |
+|-------------------|----------|---------|
+| Accuracy         | 0.84     | 546     |
 
 
 
 
-|               | Precision | Recall | F1-Score | Support |
+|           Metric    | Precision | Recall | F1-Score | Support |
 |---------------|-----------|--------|----------|---------|
 | Macro average | 0.83      | 0.82   | 0.82     | 546     |
 | Weighted average | 0.85    | 0.84   | 0.84     | 546     |
