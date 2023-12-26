@@ -67,7 +67,7 @@ result = model(input_text, top_k=4)
 
 ## Training
 
-สามารถดูรายละเอียดการเทรนได้ที่ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cqy5l88SqkMD6hE2N3Ci68CRjcFATyuc?usp=sharing)
+สามารถดูรายละเอียดการเทรนได้ที่ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QI52pnKrN597XCm6cAmBVRMLmxExueSL?usp=sharing)
 
 ลักษณะประเภทของปัญหาที่ใช้ในการพัฒนาโมเดลจำแนกประเภทอยู่ในโจทย์แบบ Multi-class classification
 - https://huggingface.co/nlp-chula/traffy-problem-predict
@@ -149,6 +149,6 @@ result = model(input_text, top_k=4)
 กระบวนการสำรวจผลลัพธ์การจำแนกประเภทปัญหาของโมเดล
 
 - Traffy AI Demo: สามารถดูตัวอย่างการใช้ได้ที่ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oOHkBWtzWdQoA5tgCUJDps7TgeLUeY2D?usp=sharing)
-- Source code: สามารถดูรายละเอียดการเทรนได้ที่ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cqy5l88SqkMD6hE2N3Ci68CRjcFATyuc?usp=sharing)
+- Source code: สามารถดูรายละเอียดการเทรนได้ที่ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QI52pnKrN597XCm6cAmBVRMLmxExueSL?usp=sharing)
 
 
